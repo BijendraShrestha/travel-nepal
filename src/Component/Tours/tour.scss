@@ -1,0 +1,28 @@
+@import '../../scss/style.scss';
+
+.tours{
+    .tours-intro{
+        padding: 0 50px;
+        .tour-h2{
+            font-weight: 600;
+        }
+        .tour-p{
+            font-weight: 400;
+            font-size: 1.3rem;
+            color: rgb(163, 163, 163);
+        }
+    }
+
+   .card-title{
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin: 10px 0px;
+    }
+    .tour-button{
+        padding: 5px 10px;
+        border:none;
+        background-color: $color-secondary;
+        color: $color-white;
+        margin-bottom: 20px;
+    }
+}

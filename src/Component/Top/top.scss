@@ -1,0 +1,42 @@
+@import '../../scss/style.scss';
+
+.section-wrapper{
+    background-color: $color-primary;
+    color: $color-white;
+    @include sm{
+        display: none;
+    }
+    @include md{
+        display: none;
+    }
+    @include lg{
+        display: none;
+    }
+    
+    .top-container{
+        .top-row{
+           
+    .social{
+        
+        .icons{
+            // cursor: pointer;
+            color:$color-white;
+        &:hover{
+            color:$color-secondary;
+            
+            }
+        }
+    }
+    .top-right{
+        span{
+            margin:0 5px;
+            cursor: pointer;
+            &:hover{
+                color:$color-secondary;
+                
+                }
+        }
+    }
+}
+}
+}

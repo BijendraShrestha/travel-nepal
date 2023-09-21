@@ -1,0 +1,43 @@
+@import '../../scss/style.scss';
+
+
+.navbar{
+    // background-color: linear-gradient(to right, rgba(255, 149, 0, 0.3), rgba(28, 93, 116, 0.3));
+    // z-index:2;
+    .logo{
+        width: 200px;
+        height:55px;
+    }
+    .nav-link{
+        color:$color-primary;
+        font-size: 1.1rem;
+        margin: 0 20px;
+        font-family: $font-open;
+        font-weight: 600;
+        transition: border-bottom 0.2s;
+        
+        &:hover{
+            color:$color-secondary;
+            text-decoration: underline;
+                           
+        }
+    }
+    .btn{
+        border: 2px solid $color-primary;
+        color: $color-primary;
+        font-size: 1.2rem;
+        @include sm{
+            display: none;
+        }
+        @include md{
+            display: none;
+        }
+        &:hover{
+            background-color: $color-secondary;
+            border: 2px solid $color-secondary;
+            color: $color-white;
+            
+        }
+    }
+}
+
