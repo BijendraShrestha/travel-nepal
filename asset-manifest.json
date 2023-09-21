@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/travel-nepal/static/css/main.6d6f7481.css",
+    "main.js": "/travel-nepal/static/js/main.957b4c23.js",
+    "static/js/787.e0ac23cd.chunk.js": "/travel-nepal/static/js/787.e0ac23cd.chunk.js",
+    "static/media/hero-banner.jpg": "/travel-nepal/static/media/hero-banner.e915f686863886eacae5.jpg",
+    "static/media/offer-04.webp": "/travel-nepal/static/media/offer-04.b64fc86dd46c8512259a.webp",
+    "static/media/pack-1.jpg": "/travel-nepal/static/media/pack-1.bdf4b9177f2d1aeabfe5.jpg",
+    "static/media/offer-03.webp": "/travel-nepal/static/media/offer-03.0691bf4d614b621b87e6.webp",
+    "static/media/offer-02.webp": "/travel-nepal/static/media/offer-02.1980b8f6450b25d61c80.webp",
+    "static/media/pack-3.jpg": "/travel-nepal/static/media/pack-3.2bc6786d1f13792e3cfa.jpg",
+    "static/media/pack-2.jpg": "/travel-nepal/static/media/pack-2.29bb5898515abaf4c703.jpg",
+    "static/media/offer-01.webp": "/travel-nepal/static/media/offer-01.b6ffb636dc6484a79dad.webp",
+    "static/media/logo-travel.png": "/travel-nepal/static/media/logo-travel.87f0299f14e19673f32b.png",
+    "index.html": "/travel-nepal/index.html",
+    "main.6d6f7481.css.map": "/travel-nepal/static/css/main.6d6f7481.css.map",
+    "main.957b4c23.js.map": "/travel-nepal/static/js/main.957b4c23.js.map",
+    "787.e0ac23cd.chunk.js.map": "/travel-nepal/static/js/787.e0ac23cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6f7481.css",
+    "static/js/main.957b4c23.js"
+  ]
+}
